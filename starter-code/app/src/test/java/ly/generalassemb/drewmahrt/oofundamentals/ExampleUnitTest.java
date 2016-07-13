@@ -12,4 +12,11 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
+
+
+
+    //assertEquals("mulitply() | Multiplying did not wokr as expected.", expected, actual);
+    //assertEquals(" ", 2, MathUtils.add(1,1));
+    //a bunch of options per test
+    //only did one testMultipl() test which contained the int and the overloaded double too
 }
